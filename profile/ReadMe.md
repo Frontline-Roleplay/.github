@@ -37,10 +37,10 @@
     <!-- Michael Havrock -->
     <td width="250" align="center" valign="top" style="padding: 16px;">
       <a href="https://github.com/Frontline-Roleplay">
-        <img src="https://raw.githubusercontent.com/Frontline-Roleplay/.github/refs/heads/main/team/micheal-havrock.jpg" width="160" height="160" style="border-radius: 50%; object-fit: cover; display: block; margin: 0 auto;" alt="Michael Havrock"/>
+        <img src="https://raw.githubusercontent.com/Frontline-Roleplay/.github/refs/heads/main/team/micheal-havrock.jpg" width="160" height="160" style="border-radius: 50%; object-fit: cover; display: block; margin: 0 auto;" alt="Micheal Havrock"/>
       </a>
       <br/>
-      <b>Michael Havrock</b><br/>
+      <b>Micheal Havrock</b><br/>
       Community Administrator<br/>
       <sub>Community Operations & Support</sub>
     </td>
