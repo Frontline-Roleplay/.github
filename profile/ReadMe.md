@@ -4,7 +4,7 @@
   Frontline Roleplay Sri Lanka is a Sri Lankan based community built by people who are genuinely passionate about roleplay in Grand Theft Auto V. Founded by <b><a href="https://github.com/Frontline-Roleplay">RAWANA (aka MJ)</a></b>, led and developed by <b><a href="https://github.com/MrAshWasTaken">Ramod Jay (aka MrAshWasTaken)</a></b>, aiming to create something more than what was out there.
 </p>
 <p align="center">
-  Alomst everything we run is built by us, custom scripts, systems, and mechanics made the way we actually want them. We're a mix of developers, designers, and community members all working toward the same thing: a roleplay experience on FiveM that feels like its being made with real care, because it is.
+  Almost everything we run is built by us, custom scripts, systems, and mechanics made the way we actually want them. We're a mix of developers, designers, and community members all working toward the same thing: a roleplay experience on FiveM that feels like its being made with real care, because it is.
 </p>
 
 ---
